@@ -18,6 +18,10 @@ This project presents a healthcare data analysis dashboard created using Microso
 - `HEALTHCATREDASHBOARD.pbix` — Power BI dashboard file.
 
 ## How to View the Dashboard
+
+## Dashboard Preview
+
+![Healthcare Power BI Dashboard](dashboard.png)
 1. Download the PBIX file from this repository.
 2. Open Microsoft Power BI Desktop.
 3. Open the downloaded file to explore the dashboard.
