@@ -16,9 +16,4 @@ This project presents a healthcare data analysis dashboard created using Microso
 
 ## Dashboard Preview
 
-![Healthcare Power BI Dashboard](dashboardhealthcare.png)
-2. Open Microsoft Power BI Desktop.
-3. Open the downloaded file to explore the dashboard.
-
-## Author
-Harsh Mittal
+![Healthcare Analysing Dashboard](healthcaredashboard.png)
